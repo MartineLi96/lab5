@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat May 15 08:41:14 2021
-
-@author: Ania
-"""
 
 def sortowanie(lista):
     n=len(lista)
